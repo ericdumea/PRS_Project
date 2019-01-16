@@ -1,0 +1,170 @@
+﻿  stdafx.cpp
+  OpenCVApplication.cpp
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(450): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(452): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(466): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(468): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(473): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(475): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(517): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(551): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(560): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(562): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(612): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(613): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(728): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(729): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(984): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1055): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1222): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1226): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1228): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1232): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1341): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1359): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1373): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1574): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1575): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1700): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1786): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1819): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1841): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1923): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1945): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1970): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1971): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1986): warning C4305: '+=': truncation from 'double' to 'float'
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1989): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2064): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2080): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1957): warning C4101: 'fname': unreferenced local variable
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2170): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\mat.inl.hpp(1095): error C2039: 'channels': is not a member of 'cv::DataType<_Tp>'
+          with
+          [
+              _Tp=uint
+          ]
+  c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\mat.inl.hpp(1095): note: see declaration of 'cv::DataType<_Tp>'
+          with
+          [
+              _Tp=uint
+          ]
+  c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(2213): note: see reference to function template instantiation '_Tp &cv::Mat::at<uint>(int,int)' being compiled
+          with
+          [
+              _Tp=uint
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\mat.inl.hpp(1095): error C3867: 'cv::Mat::channels': non-standard syntax; use '&' to create a pointer to member
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\mat.inl.hpp(1095): error C2297: '*': illegal, right operand has type 'int (__cdecl cv::Mat::* )(void) const'
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\traits.hpp(362): error C2039: 'depth': is not a member of 'cv::DataType<_Tp>'
+          with
+          [
+              _Tp=uint
+          ]
+  c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\mat.inl.hpp(1095): note: see declaration of 'cv::DataType<_Tp>'
+          with
+          [
+              _Tp=uint
+          ]
+  c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\mat.inl.hpp(1096): note: see reference to class template instantiation 'cv::traits::Depth<_Tp>' being compiled
+          with
+          [
+              _Tp=uint
+          ]
+c:\facultate\prs\opencvapplication-vs2017_ocv340_basic\opencv\include\opencv2\core\traits.hpp(362): error C2065: 'depth': undeclared identifier
+  common.cpp
+  Generating Code...
